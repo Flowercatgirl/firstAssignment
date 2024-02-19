@@ -44,17 +44,15 @@ h1{
 }
 
 
-#menu {
-  /*  position: absolute;
-    top: 40px;
-    right: 20px; */
-    font-size: 70%;
+#menu { 
+    font-size: 100%;
     letter-spacing: 2px;
     list-style-type: none;
 } 
 
-#menu >li {
-    margin-bottom: 1rem;
+#menu >ul >li {
+    margin-bottom: 5px;
+    margin-left: 20px;
 }
 
 .active {
@@ -89,6 +87,7 @@ main {
     background-color: rgb(190, 193, 200);
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
+    margin-top: 130px;
 }
 
 /* Footer */
