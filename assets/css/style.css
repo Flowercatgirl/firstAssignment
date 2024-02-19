@@ -85,6 +85,10 @@ nav {
     display: none;
 }
 
+.active {
+    color: #961212;
+}
+
 
 /* Main content */
 main {
@@ -95,8 +99,20 @@ main {
 }
 
 /* Footer */
-footer {
-    background-color: rgb(140, 140, 140);
+#social-networks {
+    background-color: white;
+    text-align: right;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+
+}
+
+#social-networks i {
+    font-size: 100%;
+    padding: 5%;
+    color: rgb(82, 82, 82);
 }
 
 /* Media query: tablets and larger (768px and up) */
