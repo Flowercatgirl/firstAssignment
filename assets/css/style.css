@@ -92,10 +92,17 @@ nav {
 
 /* Main content */
 main {
-    background-color: rgb(190, 193, 200);
+    
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;
     margin-top: 130px;
+}
+
+/* Legend section */
+#legend {
+    height: 70vh;
+    width: 100%;
+    background: url("../images/legend_bg_web2.webp") no-repeat center center/cover;
 }
 
 /* Footer */
