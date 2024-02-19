@@ -50,7 +50,7 @@ h1{
     list-style-type: none;
 } 
 
-#menu >ul >li {
+#menu >li {
     margin-bottom: 5px;
     margin-left: 20px;
 }
@@ -93,4 +93,28 @@ main {
 /* Footer */
 footer {
     background-color: rgb(140, 140, 140);
+}
+
+/* Media query: tablets and larger (768px and up) */
+@media screen and (min-width:768px) {
+    
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        width:fit-content;
+        padding-right: 1rem;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu >li{
+        padding-left: 2rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }
 }
