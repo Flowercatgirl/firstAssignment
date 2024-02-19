@@ -35,6 +35,10 @@ header a {
     color: inherit;
 }
 
+#logo {
+    width: 125px;
+}
+
 h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-transform: uppercase;
@@ -52,7 +56,7 @@ h1{
 
 #menu >li {
     margin-bottom: 5px;
-    margin-left: 20px;
+    margin-left: 10px;
 }
 
 .active {
@@ -103,11 +107,12 @@ footer {
         display: block;
         position: relative;
         width:fit-content;
-        padding-right: 1rem;
+        top: -76px;
     }
 
     #menu {
         display: flex;
+        font-size: 140%;
     }
 
     #menu >li{
@@ -116,5 +121,16 @@ footer {
 
     .nav-toggle-label {
         display: none;
+    }
+
+    #logo {
+        width: 180px;
+        margin-top: 1rem;
+    }
+
+    /* Main content */
+    main{
+        /* Push main content down to accomodate larger header */
+        margin-top: 220px;
     }
 }
