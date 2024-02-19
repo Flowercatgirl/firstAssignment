@@ -134,3 +134,17 @@ footer {
         margin-top: 220px;
     }
 }
+
+/* Media query: laptops and larger (992px and up) */
+@media screen and (min-width:768px) {
+    
+    #menu {
+        display: flex;
+        font-size: 120%;
+    }
+
+    #menu a:hover{
+        border-bottom: 1px solid #3a3a3a;
+    }
+
+}
