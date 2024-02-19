@@ -25,6 +25,9 @@ header {
     position: fixed;
     z-index: 99;
     width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
 }
 
 header a {
@@ -51,7 +54,7 @@ h1{
 } 
 
 #menu >li {
-    margin-bottom: 1em;
+    margin-bottom: 1rem;
 }
 
 .active {
@@ -68,7 +71,18 @@ nav {
     left: 0;
     padding: 0 1rem 1rem;
     display: none;
+    top: 100%;
 }
+
+/* Nan toggle */
+#nav-toggle:checked~nav{
+    display:block;
+}
+
+#nav-toggle {
+    display: none;
+}
+
 
 /* Main content */
 main {
