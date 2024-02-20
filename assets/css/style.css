@@ -149,6 +149,30 @@ main {
     line-height: 1.2;
 }
 
+#gedas_flex {
+    /* FLEX PARENT PROPERTIES */
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items:normal;
+    flex-direction:column;
+}
+
+#left_gedas {
+    width:100%;
+    margin: 20px;
+    align-self: center;
+    line-height: 1.5;
+}
+
+#right_gedas {
+    width:30%;
+    padding: 10px 20px;
+    line-height: 1.5;
+
+}
+
 /* Footer */
 #social-networks {
     background-color: white;
