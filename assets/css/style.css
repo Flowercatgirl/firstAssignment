@@ -156,6 +156,10 @@ main {
         /* Push main content down to accomodate larger header */
         margin-top: 220px;
     }
+    /* Legend section */
+#legend {
+    height: 80vh;
+}
 }
 
 /* Media query: laptops and larger (992px and up) */
@@ -169,5 +173,10 @@ main {
     #menu a:hover{
         border-bottom: 1px solid #3a3a3a;
     }
+
+    /* Legend section */
+#legend {
+    background: url("../images/legend_bg_web2.webp") no-repeat center center/cover;
+}
 
 }
