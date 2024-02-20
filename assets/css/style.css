@@ -176,7 +176,8 @@ main {
 
     /* Legend section */
 #legend {
-    background: url("../images/legend_bg_web2.webp") no-repeat center center/cover;
+    height: 70vh;
+    background: url("../images/legend_bg_web2.webp") no-repeat center top 77%/cover;
 }
 
 }
