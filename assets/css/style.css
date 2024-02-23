@@ -151,24 +151,26 @@ main {
 
 #gedas_flex {
     /* FLEX PARENT PROPERTIES */
-    height: 100%;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    align-items:normal;
-    flex-direction:column;
+    flex-direction: column-reverse;
+    gap: 0;
+}
+
+#gediminas {
+    width:100%;
+    align-self: center;
 }
 
 #left_gedas {
     width:100%;
-    margin: 20px;
+    padding: 10%;
     align-self: center;
     line-height: 1.5;
 }
 
 #right_gedas {
-    width:30%;
-    padding: 10px 20px;
+    width:100%;
+    padding: 10%;
     line-height: 1.5;
 
 }
