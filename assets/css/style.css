@@ -215,6 +215,7 @@ main {
         line-height: 1.2;
         background-color: #e3e8f5a3;
     }
+
 }
 
 /* Media query: iPhone SE */
@@ -316,6 +317,41 @@ main {
     /* Gallery */
     #photos {
         column-count: 2;
+    }
+
+    #gedas_flex {
+        height: 75vh;
+        column-count: 2;
+        column-gap: 0;
+        flex-direction: row;
+    }
+
+    #gediminas {
+        width:100%;
+        position: absolute;
+        -webkit-clip-path: inset(25px 50px 10px 50px);
+        clip-path: inset(25px 50px 10px 50px);
+    }
+
+    h4 {
+        letter-spacing: 1px;
+        font-size: 2vw;
+    }
+    
+    #left_gedas {
+        width:100%;
+        height: 100%;
+        padding: 5% 0 5% 5%;
+        float:right;
+        align-self:flex-start;
+        line-height: 1.5;
+    }
+    
+    #right_gedas {
+        width:100%;
+        padding: 5% 5% 0 0;
+        position: relative;
+    
     }
 }
 
