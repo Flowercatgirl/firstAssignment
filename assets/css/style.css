@@ -535,6 +535,11 @@ main {
         letter-spacing: 1px;
         font-size: 1.1vw;
     }
+    
+    #right_gedas {
+        left: 8rem;    
+    }
+
 }
 
 
