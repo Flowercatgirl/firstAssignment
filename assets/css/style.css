@@ -47,7 +47,7 @@ h1 {
     font-size: 10vw;
 }
 
-h4 {
+.p_four {
     letter-spacing: 1px;
     color: #252525;
     font-size: 4vw;
@@ -205,7 +205,7 @@ main {
         column-gap: 0;
     }
 
-    h4 {
+    .p_four {
         letter-spacing: 1px;
         color: #252525;
         font-size: 1vw;
@@ -339,7 +339,7 @@ main {
         clip-path: inset(25px 50px 10px 50px);
     }
 
-    h4 {
+    .p_four {
         letter-spacing: 1px;
         font-size: 2vw;
     }
@@ -408,7 +408,7 @@ main {
         clip-path: inset(0);
     }
 
-    h4 {
+    .p_four {
         letter-spacing: 1px;
         font-size: 1.3vw;
     }
@@ -537,7 +537,7 @@ main {
         line-height: 1.7;
     }
 
-    h4 {
+    .p_four {
         letter-spacing: 1px;
         font-size: 1.1vw;
     }
