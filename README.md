@@ -6,7 +6,7 @@ Find the live site [here]
 
 [here]: https://flowercatgirl.github.io/firstAssignment/index.html
 
-![screenshot of site responsiveness] (assets/images/readme_mainimage.webp)
+![screenshot of site responsiveness](firstAssignment/assets/images/readme_mainimage.webp)
 
 
 
