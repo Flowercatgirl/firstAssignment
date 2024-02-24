@@ -55,6 +55,14 @@ h4 {
     text-align: justify;
 }
 
+.hidden-heading {
+    position: absolute;
+    left: -10000px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
+
 .p_five {
     color: #dddddd;
     font-size: 3.5vw;
@@ -157,19 +165,19 @@ main {
 }
 
 #gediminas {
-    width:100%;
+    width: 100%;
     align-self: center;
 }
 
 #left_gedas {
-    width:100%;
+    width: 100%;
     padding: 10%;
     align-self: center;
     line-height: 1.5;
 }
 
 #right_gedas {
-    width:100%;
+    width: 100%;
     padding: 10%;
     line-height: 1.5;
 
@@ -179,7 +187,7 @@ main {
     aspect-ratio: 16 / 9;
     width: 100%;
     height: 70vh;
-  }
+}
 
 /* Footer */
 #social-networks {
@@ -333,7 +341,7 @@ main {
     }
 
     #gediminas {
-        width:100%;
+        width: 100%;
         position: absolute;
         -webkit-clip-path: inset(25px 50px 10px 50px);
         clip-path: inset(25px 50px 10px 50px);
@@ -343,21 +351,21 @@ main {
         letter-spacing: 1px;
         font-size: 2vw;
     }
-    
+
     #left_gedas {
-        width:100%;
+        width: 100%;
         height: 100%;
         padding: 5% 0 5% 5%;
-        float:right;
-        align-self:flex-start;
+        float: right;
+        align-self: flex-start;
         line-height: 1.5;
     }
-    
+
     #right_gedas {
-        width:100%;
+        width: 100%;
         padding: 5% 5% 0 0;
         position: relative;
-    
+
     }
 }
 
@@ -402,7 +410,7 @@ main {
     }
 
     #gediminas {
-        width:70%;
+        width: 70%;
         position: absolute;
         -webkit-clip-path: inset(0);
         clip-path: inset(0);
@@ -412,23 +420,23 @@ main {
         letter-spacing: 1px;
         font-size: 1.3vw;
     }
-    
+
     #left_gedas {
-        width:100%;
+        width: 100%;
         height: 100%;
-        align-self:flex-start;
+        align-self: flex-start;
         line-height: 1.5;
         flex-basis: 75%;
         padding: 6rem 0 0 5rem;
     }
-    
+
     #right_gedas {
-        width:100%;
+        width: 100%;
         padding: 5rem 0;
         position: relative;
         left: 3rem;
         flex-basis: 25%;
-    
+
     }
 
 }
@@ -541,9 +549,9 @@ main {
         letter-spacing: 1px;
         font-size: 1.1vw;
     }
-    
+
     #right_gedas {
-        left: 8rem;    
+        left: 8rem;
     }
 
 }
