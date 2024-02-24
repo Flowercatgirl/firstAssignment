@@ -55,7 +55,7 @@ h4 {
     text-align: justify;
 }
 
-h5 {
+.p_five {
     color: #dddddd;
     font-size: 3.5vw;
     font-weight: normal;
@@ -227,7 +227,7 @@ main {
 /* Media query: iPhone SE */
 @media screen and (width:375px) and (height:667px) {
 
-    h5 {
+    .p_five {
         font-size: 2.7vw;
 
     }
@@ -242,7 +242,7 @@ main {
 /* Media query: Galaxy S8+ */
 @media screen and (width:360px) and (height:740px) {
 
-    h5 {
+    .p_five {
         font-size: 2.9vw;
 
     }
@@ -257,7 +257,7 @@ main {
 /* Media query: Galaxy S8+ */
 @media screen and (width:540px) and (height:720px) {
 
-    h5 {
+    .p_five {
         font-size: 1.9vw;
 
     }
@@ -280,7 +280,7 @@ main {
         top: -76px;
     }
 
-    h5 {
+    .p_five {
         font-size: 2.3vw;
 
     }
@@ -373,7 +373,7 @@ main {
         border-bottom: 1px solid #3a3a3a;
     }
 
-    h5 {
+    .p_five {
         font-size: 2.2vw;
     }
 
@@ -436,7 +436,7 @@ main {
 /* Media query: laptops and larger (1100px and up) */
 @media screen and (min-width:1100px) {
 
-    h5 {
+    .p_five {
         font-size: 1.1vw;
     }
 
@@ -454,7 +454,7 @@ main {
 /* Media query: laptops and larger (1300px and up) */
 @media screen and (min-width:1300px) {
 
-    h5 {
+    .p_five {
         font-size: 1vw;
     }
 
@@ -470,7 +470,7 @@ main {
 /* Media query: laptops and larger (1550px and up) */
 @media screen and (min-width:1550px) {
 
-    h5 {
+    .p_five {
         font-size: 0.9vw;
     }
 
@@ -494,7 +494,7 @@ main {
 /* Media query: screens larger (1750px and up) */
 @media screen and (min-width:1750px) {
 
-    h5 {
+    .p_five {
         font-size: 0.9vw;
     }
 
@@ -510,7 +510,7 @@ main {
 /* Media query: screens larger (2000px and up) */
 @media screen and (min-width:2000px) {
 
-    h5 {
+    .p_five {
         font-size: 0.8vw;
     }
 
@@ -526,7 +526,7 @@ main {
 /* Media query: screens larger (2200px and up) */
 @media screen and (min-width:2200px) {
 
-    h5 {
+    .p_five {
         font-size: 0.8vw;
     }
 
@@ -552,7 +552,7 @@ main {
 /* Media query: screens larger (2700px and up) */
 @media screen and (min-width:2700px) {
 
-    h5 {
+    .p_five {
         font-size: 0.6vw;
     }
 
