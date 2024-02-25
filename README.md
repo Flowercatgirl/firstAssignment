@@ -20,4 +20,4 @@ Find the live site [here]
 
 - The navigation clearly tells what the website is about, it is simple, clean and effective.
 
-![screenshot of navigation](assets/images/navigation.jpg)
+![screenshot of navigation](assets/images/navigation.webp)
