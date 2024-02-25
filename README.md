@@ -70,9 +70,9 @@ Find the live site [here]
 
 ### Future Implementations
 
- - It would be nice to redo every page of the website with more meaningful text and pictures
+- It would be nice to redo every page of the website with more meaningful text and pictures
 
- - Another page can be added with a form to fill with a suggestions how to make this website better
+- Another page can be added with a form to fill with a suggestions how to make this website better
 
 ---
 
@@ -80,90 +80,90 @@ Find the live site [here]
 
 I have been mindful during coding to ensure that the website is as accessible friendly as possible. I have achieved this by:
 
-  - Using semantic HTML.
+- Using semantic HTML.
 
-  - Using descriptive alt attributes on images on the site.
+- Using descriptive alt attributes on images on the site.
 
-  - Ensuring that there is a sufficient colour contrast throughout the site.
+- Ensuring that there is a sufficient colour contrast throughout the site.
 
-  - Ensuring that all sections of the navigation are easily accessible at all times by making the header navbar stick to the top of the page while users scroll.
+- Ensuring that all sections of the navigation are easily accessible at all times by making the header navbar stick to the top of the page while users scroll.
 
-    ---
+---
 
-  ## Technologies Used
+## Technologies Used
 
-  ### Languages Used
+### Languages Used
 
-   - HTML5 and CSS only
+- HTML5 and CSS only
 
-  ### Frameworks, Libraries & Programs Used
+### Frameworks, Libraries & Programs Used
 
-  -  Git - For version control.
+-  Git - For version control.
 
-   - Github - To save and store the files for the website.
+- Github - To save and store the files for the website.
 
-   - Google Fonts - To import the fonts used on the website.
+- Google Fonts - To import the fonts used on the website.
 
-   - Font Awesome - For the iconography on the website.
+- Font Awesome - For the iconography on the website.
 
-   - [Favicon.io](https://favicon.io/) To create favicon.
+- [Favicon.io](https://favicon.io/) To create favicon.
 
-   - Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+- Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
 
-   - Photoshop - To cut and compress images.
+- Photoshop - To cut and compress images.
 
-   - [Cloudconvert](https://cloudconvert.com) To convert images to webp format.
+- [Cloudconvert](https://cloudconvert.com) To convert images to webp format.
 
-   - [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
+- [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
 
-   - Google Chrome extensions:
+- Google Chrome extensions:
    Responsive Image Linter - To optimise image sizing.
    Better ruler - To check the size of a whitespace in the gallery in order to fill it.
 
-  ---
+---
 
-  ## Deployment & Local Development
+## Deployment & Local Development
 
- ### Deployment
+### Deployment
 
- Github Pages was used to deploy the live website. The instructions to achieve this are below:
+Github Pages was used to deploy the live website. The instructions to achieve this are below:
 
- - Log in (or sign up) to Github
+- Log in (or sign up) to Github
 
- - Find the repository for this project, firstAssignment
+- Find the repository for this project, firstAssignment
 
- - Click on the Settings link
+- Click on the Settings link
 
- - Click on the Pages link in the left hand side navigation bar
+- Click on the Pages link in the left hand side navigation bar
 
- - In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu
+- In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu
 
- - Click Save. Your live Github Pages site is now deployed at the URL shown
+- Click Save. Your live Github Pages site is now deployed at the URL shown
 
- ### Local Development
+### Local Development
 
- #### How to Fork
+#### How to Fork
 
- To fork the firstAssignment repository:
+To fork the firstAssignment repository:
 
- - Log in (or sign up) to Github
+- Log in (or sign up) to Github
 
- - Go to the repository for this project, Flowercatgirl/firstAssignment
+- Go to the repository for this project, Flowercatgirl/firstAssignment
 
- - Click the Fork button in the top right corner.
+- Click the Fork button in the top right corner.
 
- #### How to Clone
+#### How to Clone
 
- To clone the repository:
+To clone the repository:
 
- - Log in (or sign up) to GitHub
+- Log in (or sign up) to GitHub
 
- - Go to the repository for this project, Flowercatgirl/firstAssignment
+- Go to the repository for this project, Flowercatgirl/firstAssignment
 
- - Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown
+- Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown
 
- - Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory
+- Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory
 
- - Type 'git clone' into the terminal and then paste the link you copied. Press enter
+- Type 'git clone' into the terminal and then paste the link you copied. Press enter
 
- ___
+___
