@@ -62,4 +62,6 @@ Find the live site [here]
 
 - Has 4 social media icon links, all working
 
+- Responsive
+
 ![screenshot of a footer](assets/images/footer.webp)
