@@ -65,3 +65,15 @@ Find the live site [here]
 - Responsive
 
 ![screenshot of a footer](assets/images/footer.webp)
+
+## Accessibility
+
+I have been mindful during coding to ensure that the website is as accessible friendly as possible. I have achieved this by:
+
+  - Using semantic HTML.
+
+  - Using descriptive alt attributes on images on the site.
+
+  - Ensuring that there is a sufficient colour contrast throughout the site.
+  
+  - Ensuring that all sections of the navigation are easily accessible at all times by making the header navbar stick to the top of the page while users scroll.
