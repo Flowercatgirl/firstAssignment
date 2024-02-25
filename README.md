@@ -8,5 +8,16 @@ Find the live site [here]
 
 ![screenshot of site responsiveness](assets/images/readme_mainimage.webp)
 
+## Features
 
+### Navigation
 
+- Featured at the top of the page, the navigation shows the website logo in the left corner, that links to an index.html page
+
+- The other navigation links are to the right: About Vilnius, The Legend, Gediminas, Watch the video
+
+- The font used is a Google Web Font
+
+- The navigation clearly tells what the website is about, it is simple, clean and effective.
+
+![screenshot of navigation](assets/images/navigation.jpg)
