@@ -34,3 +34,11 @@ Find the live site [here]
 
 ![screenshot of index.html](assets/images/index.webp)
 
+## The Legend
+
+- The Legend page has the legend text itself
+
+- The page is responsive on many different screens: it has a legend image as a background and the text is located as a top layer. Whenever the text can become hard to read it's background turns darker
+
+![screenshot of The Legend page](assets/images/thelegend.webp)
+
