@@ -57,3 +57,9 @@ Find the live site [here]
 - Users, that prefer to see the film instead of reading the legend can do that for a better experience
 
 ![screenshot of Gediminas page](assets/images/film.webp)
+
+### Footer
+
+- Has 4 social media icon links, all working
+
+![screenshot of a footer](assets/images/footer.webp)
