@@ -24,7 +24,7 @@ Find the live site [here]
 
 ![screenshot of navigation](assets/images/navigation.webp)
 
-## About Vilnius
+### About Vilnius
 
 - The index page of the website. It shows the gallery of Vilnius photos as well as educating the user about the city
 
@@ -34,7 +34,7 @@ Find the live site [here]
 
 ![screenshot of index.html](assets/images/index.webp)
 
-## The Legend
+### The Legend
 
 - The Legend page has the legend text itself
 
@@ -42,10 +42,18 @@ Find the live site [here]
 
 ![screenshot of The Legend page](assets/images/thelegend.webp)
 
-## Gediminas
+### Gediminas
 
 - Information on the main character of the legend, who he was for Lithuania
 
 - The page is responsive, image and the text formated differently for small and big screens
 
 ![screenshot of Gediminas page](assets/images/gediminas_page.webp)
+
+### Watch the video
+
+- This page has an embedded youtube video, it is responsive for any screen size
+
+- Users, that prefer to see the film instead of reading the legend can do that for a better experience
+
+![screenshot of Gediminas page](assets/images/film.webp)
