@@ -6,7 +6,7 @@ Find the live site [here]
 
 [here]: https://flowercatgirl.github.io/firstAssignment/index.html
 
-![screenshot of site responsiveness](assets/images/readme_mainimage.webp)
+![screenshot of site responsiveness](assets/images/rscreens.webp)
 
 ---
 
@@ -87,3 +87,37 @@ I have been mindful during coding to ensure that the website is as accessible fr
   - Ensuring that there is a sufficient colour contrast throughout the site.
 
   - Ensuring that all sections of the navigation are easily accessible at all times by making the header navbar stick to the top of the page while users scroll.
+
+    ---
+
+  ## Technologies Used
+
+  ### Languages Used
+
+   - HTML5 and CSS only
+
+  ### Frameworks, Libraries & Programs Used
+
+  -  Git - For version control.
+
+   - Github - To save and store the files for the website.
+
+   - Google Fonts - To import the fonts used on the website.
+
+   - Font Awesome - For the iconography on the website.
+
+   - [Favicon.io](https://favicon.io/) To create favicon.
+
+   - Google Dev Tools - To troubleshoot and test features, solve issues with responsiveness and styling.
+
+   - Photoshop - To cut and compress images.
+
+   - [Cloudconvert](https://cloudconvert.com) To convert images to webp format.
+
+   - [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
+
+   - Google Chrome extensions:
+   Responsive Image Linter - To optimise image sizing.
+   Better ruler - To check the size of a whitespace in the gallery in order to fill it.
+
+  ---
