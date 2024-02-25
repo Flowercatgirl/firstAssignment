@@ -16,8 +16,21 @@ Find the live site [here]
 
 - The other navigation links are to the right: About Vilnius, The Legend, Gediminas, Watch the video
 
-- The font used is a Google Web Font
+- The navigation bar is responsive: the tabs are not visible on the mobile until the user clicks on the hamburger icon, and fully visible on bigger screens
 
-- The navigation clearly tells what the website is about, it is simple, clean and effective.
+- It clearly tells what the website is about, it is simple, clean and effective
+
+- The active page has it's navigation tab in red and bold
 
 ![screenshot of navigation](assets/images/navigation.webp)
+
+## About Vilnius
+
+- The index page of the website. It shows the gallery of Vilnius photos as well as educating the user about the city
+
+- The gallery is responsive: it shows only 1 column on the mobile and 3 on bigger screens
+
+- The text about Vilnius is located on top of the gallery and is readable
+
+![screenshot of index.html](assets/images/index.webp)
+
