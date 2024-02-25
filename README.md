@@ -30,7 +30,7 @@ Find the live site [here]
 
 - The index page of the website. It shows the gallery of Vilnius photos as well as educating the user about the city
 
-- The gallery is responsive: it shows only 1 column on the mobile and 3 on bigger screens
+- The gallery is responsive: it shows only 1 column on the mobile, 2 on smaller tablets and 3 on bigger screens
 
 - The text about Vilnius is located on top of the gallery and is readable
 
@@ -121,3 +121,49 @@ I have been mindful during coding to ensure that the website is as accessible fr
    Better ruler - To check the size of a whitespace in the gallery in order to fill it.
 
   ---
+
+  ## Deployment & Local Development
+
+ ### Deployment
+
+ Github Pages was used to deploy the live website. The instructions to achieve this are below:
+
+ - Log in (or sign up) to Github
+
+ - Find the repository for this project, firstAssignment
+
+ - Click on the Settings link
+
+ - Click on the Pages link in the left hand side navigation bar
+
+ - In the Source section, choose main from the drop down select branch menu. Select Root from the drop down select folder menu
+
+ - Click Save. Your live Github Pages site is now deployed at the URL shown
+
+ ### Local Development
+
+ #### How to Fork
+
+ To fork the firstAssignment repository:
+
+ - Log in (or sign up) to Github
+
+ - Go to the repository for this project, Flowercatgirl/firstAssignment
+
+ - Click the Fork button in the top right corner.
+
+ #### How to Clone
+
+ To clone the repository:
+
+ - Log in (or sign up) to GitHub
+
+ - Go to the repository for this project, Flowercatgirl/firstAssignment
+
+ - Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown
+
+ - Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory
+
+ - Type 'git clone' into the terminal and then paste the link you copied. Press enter
+
+ ___
