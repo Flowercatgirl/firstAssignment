@@ -42,3 +42,10 @@ Find the live site [here]
 
 ![screenshot of The Legend page](assets/images/thelegend.webp)
 
+## Gediminas
+
+- Information on the main character of the legend, who he was for Lithuania
+
+- The page is responsive, image and the text formated differently for small and big screens
+
+![screenshot of Gediminas page](assets/images/gediminas_page.webp)
