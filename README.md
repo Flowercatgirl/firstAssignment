@@ -68,6 +68,12 @@ Find the live site [here]
 
 ![screenshot of a footer](assets/images/footer.webp)
 
+### Future Implementations
+
+ - It would be nice to redo every page of the website with more meaningful text and pictures
+
+ - Another page can be added with a form to fill with a suggestions how to make this website better
+
 ---
 
 ## Accessibility
