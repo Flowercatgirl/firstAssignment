@@ -170,3 +170,23 @@ To clone the repository:
 - Type 'git clone' into the terminal and then paste the link you copied. Press enter
 
 ___
+
+## Testing
+
+Testing was ongoing throughout the entire build of the website. I used mostly Chrome Developer Tools, but also Lighthouse report viewer at the end.
+
+### W3C Validator
+
+[Index Page HTML](assets/testing/index.webp)
+
+[The Legend Page HTML](assets/testing/legend_page.webp)
+
+[Gediminas Page HTML](assets/testing/gediminas.webp)
+
+[Watch the video Page HTML](assets/testing/watch_thevideo.webp)
+
+[CSS](assets/testing/css.webp)
+
+### Lighthouse validator
+
+[Screenshot of a site validator](assets/testing/validator.webp)
