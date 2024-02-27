@@ -114,11 +114,14 @@ I have been mindful during coding to ensure that the website is as accessible fr
 
 - [Cloudconvert](https://cloudconvert.com) To convert images to webp format.
 
+- [Tinypng] (https://tinypng.com/) To compress webp images.
+
 - [Am I Responsive?](http://ami.responsivedesign.is/) To show the website image on a range of devices.
 
 - Google Chrome extensions:
    Responsive Image Linter - To optimise image sizing.
    Better ruler - To check the size of a whitespace in the gallery in order to fill it.
+   Lighthouse Report Viewer - to check the performance of the site.
 
 ---
 
