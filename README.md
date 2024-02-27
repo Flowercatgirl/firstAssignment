@@ -190,3 +190,82 @@ Testing was ongoing throughout the entire build of the website. I used mostly Ch
 ### Lighthouse validator
 
 [Screenshot of a site validator](assets/testing/validator.webp)
+
+### Solved Bugs
+
+1. Index.html page had no hidden heading within a section element.
+I solved this one with a help of a testing video from a love running project.
+
+2. Legend page had multiple paragraph elements within a heading one. 
+I googled and found out that paragraphs are not meant to be used within a heading, I should treat it like a written page where you have the heading and paragraphs go after it. To style them I better use the class element.
+
+3. When I copied an iframe to embed the youtube video on my site it had a frameborder attribute that is not supported anymore. I found the solution on stackoverflow how to get rid of it without compromising an iframe code.
+The solution was to get rid of a frameborder and use border: 0px instead.
+
+4. I needed to resize my webp images a few time to improve the performance.
+
+### Known Bugs
+
+No known bugs at the moment.
+
+### Full Testing
+
+To fully test my website I performed the following testing using a number of browsers (Chrome, Safari, Mozilla Firefox, Duckduckgo) and devices ( Macbook Pro 16", iPhone 14 plus).
+
+I also viewed both pages in Chrome developer tools to ensure they were responsive on all screen sizes.
+
+#### Links
+
+-  Test each link on each page. Each link worked as expected, and any links leading to external pages opened correctly in a seperate browser tab.
+
+___
+
+## Credits 
+
+### Code used
+
+Burger menu, gallery and footer code used was taken from Love Running Project.
+
+Solution how to fix the outdated frameborder was taken from [Stackoverflow](https://stackoverflow.com/questions/26274082/the-frameborder-attribute-on-the-iframe-element-is-obsolete-use-css-instead)
+
+## Content 
+
+Text content taken from 
+
+[Culture Trip](https://theculturetrip.com/europe/lithuania/articles/gediminas-dream-the-legend-of-vilnius)
+
+and
+
+[Parsifal](https://parsifal.pixel-online.org/legend_view.php?id_legend=MTA=&ref=lithuania)
+
+Both sites were used only for learning purposes
+
+## Media
+
+Video embedded from [Youtube](https://www.youtube.com/watch?v=pAoJGytFbhY)
+
+Images were taken from multiple sites:
+
+[1](https://www.spreadshirt.ie/shop/design/lietuva+iron+wolf+mens+sport+t-shirt-D5fa430adfcfbe36ede004d2b?sellable=xrvMXOZzVrtyEEZegB98-977-7&view=D1)
+
+[2](https://www.thetimes.co.uk/article/a-weekend-break-in-vilnius-lithuania-weird-but-absolutely-wonderful-0cjt7hvkh)
+
+[3](https://www.govilnius.lt/visit-vilnius/places/most-loved-places)
+
+[4](https://www.expedia.co.uk/stories/how-to-spend-48-hours-in-vilnius-lithuania/)
+
+[5](https://www.nordicexperience.com/tours/vilnius-tours/vilnius-old-town-walking-tour/)
+
+[6](https://raceraves.com/races/vilnius-half-marathon/)
+
+[7](https://www.pizzatravel.com.ua/eng/lithuania/83/vilnius)
+
+[8](http://www.levoriskis.com/fotodrobiu-galerija/vilniaus-700-asis-gimtadienis/didysis-kunigaikstis-gediminas)
+
+All the Media used only for learning purposes
+
+
+
+
+
+
