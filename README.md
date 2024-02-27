@@ -246,21 +246,21 @@ Video embedded from [Youtube](https://www.youtube.com/watch?v=pAoJGytFbhY)
 
 Images were taken from multiple sites:
 
-[1](https://www.spreadshirt.ie/shop/design/lietuva+iron+wolf+mens+sport+t-shirt-D5fa430adfcfbe36ede004d2b?sellable=xrvMXOZzVrtyEEZegB98-977-7&view=D1)
+[Spreadshird.ie](https://www.spreadshirt.ie/shop/design/lietuva+iron+wolf+mens+sport+t-shirt-D5fa430adfcfbe36ede004d2b?sellable=xrvMXOZzVrtyEEZegB98-977-7&view=D1),
 
-[2](https://www.thetimes.co.uk/article/a-weekend-break-in-vilnius-lithuania-weird-but-absolutely-wonderful-0cjt7hvkh)
+[Thetimes.co.uk](https://www.thetimes.co.uk/article/a-weekend-break-in-vilnius-lithuania-weird-but-absolutely-wonderful-0cjt7hvkh)
 
-[3](https://www.govilnius.lt/visit-vilnius/places/most-loved-places)
+[Govilnius.lt](https://www.govilnius.lt/visit-vilnius/places/most-loved-places)
 
-[4](https://www.expedia.co.uk/stories/how-to-spend-48-hours-in-vilnius-lithuania/)
+[Expedia.co.uk](https://www.expedia.co.uk/stories/how-to-spend-48-hours-in-vilnius-lithuania/)
 
-[5](https://www.nordicexperience.com/tours/vilnius-tours/vilnius-old-town-walking-tour/)
+[Nordicexperience](https://www.nordicexperience.com/tours/vilnius-tours/vilnius-old-town-walking-tour/)
 
-[6](https://raceraves.com/races/vilnius-half-marathon/)
+[Raceraves](https://raceraves.com/races/vilnius-half-marathon/)
 
-[7](https://www.pizzatravel.com.ua/eng/lithuania/83/vilnius)
+[Pizzatravel](https://www.pizzatravel.com.ua/eng/lithuania/83/vilnius)
 
-[8](http://www.levoriskis.com/fotodrobiu-galerija/vilniaus-700-asis-gimtadienis/didysis-kunigaikstis-gediminas)
+[Levorskis](http://www.levoriskis.com/fotodrobiu-galerija/vilniaus-700-asis-gimtadienis/didysis-kunigaikstis-gediminas)
 
 All the Media used only for learning purposes
 
